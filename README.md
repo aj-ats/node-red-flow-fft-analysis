@@ -8,8 +8,11 @@
 You can find the fft-js library at https://www.npmjs.com/package/fft-js<br><br>
 
 Commandline installation is required. You can use the following commands:<br>
+```console
 cd ~/.node-red<br>
 npm install fft-js<br>
+```
+
 
 
 ### settings.js File
